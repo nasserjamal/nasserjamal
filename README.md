@@ -59,5 +59,5 @@ I am a specialized Mobile App Developer focusing on **Flutter** and **Dart**. My
 
 ### 📫 Connect with Me
 
-[<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />](LINK_TO_YOUR_UPWORK)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](LINK_TO_YOUR_LINKEDIN)
+[<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />](https://www.upwork.com/freelancers/njamal)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([LINK_TO_YOUR_LINKEDIN](https://www.linkedin.com/in/nasser-jamal-1b0184155/))
